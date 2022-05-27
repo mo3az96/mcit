@@ -1,6 +1,10 @@
 window.addEventListener(
   "load",
   function () {
+    sal({
+      once: false,
+    });
+
     var sectorswiper = new Swiper(".sectors-slider .swiper", {
       loop: true,
       breakpoints: {

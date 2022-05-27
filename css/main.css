@@ -1,5 +1,6 @@
 :root {
   --bs-gutter-x: 15px;
+  --sal-duration: 1s;
 }
 
 body {
